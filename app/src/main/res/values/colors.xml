@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+ <!-- Colours used in this project-->
+    <color name="primary">#5E35B1</color>
+    <color name="primaryDark">#4527A0</color>
+    <color name="secondary">#26A69A</color>
+    <color name="accent">#FF7043</color>
+    <color name="background">#F5F5F7</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+</resources>

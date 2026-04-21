@@ -1,0 +1,15 @@
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.keystore
+# Keep google-services.json out of public repos if your project is public.
+# Comment the next line out if you want to commit it for marker convenience.
+# app/google-services.json

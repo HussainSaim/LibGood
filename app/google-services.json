@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "508957124250",
+    "project_id": "libgood",
+    "storage_bucket": "libgood.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508957124250:android:cce5041c06adb2a28ba123",
+        "android_client_info": {
+          "package_name": "com.example.libgood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSuTFIT_Hw3PYa16y7x24TIzf4bitlMG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508957124250:android:e2d17b3f1a7c9b688ba123",
+        "android_client_info": {
+          "package_name": "com.libgood.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSuTFIT_Hw3PYa16y7x24TIzf4bitlMG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

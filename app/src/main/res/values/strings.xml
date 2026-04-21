@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lib Good</string>
+    <string name="tagline">Read more. Level up.</string>
+<!-- Centralised Location for all text strings-->
+
+    <!-- Login / Register -->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="username_hint">Username</string>
+    <string name="login_button">Log In</string>
+    <string name="register_button">Create Account</string>
+    <string name="register_link">Don\'t have an account? Sign up</string>
+    <string name="create_account">Create your account</string>
+
+    <!-- Dashboard -->
+    <string name="welcome_format">Welcome back, %1$s 👋</string>
+    <string name="level_format">Level %1$d</string>
+    <string name="xp_format">%1$d / %2$d XP this level (%3$d total)</string>
+    <string name="streak_format">🔥 %1$d-day streak</string>
+    <string name="log_reading_button">Log Reading Session</string>
+    <string name="add_book_button">Add a Book</string>
+    <string name="achievements_button">Achievements</string>
+    <string name="logout_button">Log Out</string>
+
+    <!-- Add Book -->
+    <string name="add_book_title">Add a Book</string>
+    <string name="book_title_hint">Title</string>
+    <string name="author_hint">Author</string>
+    <string name="total_pages_hint">Total pages</string>
+    <string name="save_book">Save Book</string>
+
+    <!-- Log Reading -->
+    <string name="log_reading_title">Log Reading Session</string>
+    <string name="select_book_label">Which book?</string>
+    <string name="pages_read_label">How many pages did you read?</string>
+    <string name="pages_read_hint">e.g. 25</string>
+    <string name="log_session">Log Session</string>
+    <string name="no_books_message">You don\'t have any books yet. Add one from the dashboard first.</string>
+    <string name="session_logged_title">Session logged!</string>
+    <string name="session_logged_format">Read %1$d pages and earned %2$d XP</string>
+    <string name="current_level_format">Level %1$d (%2$d XP)</string>
+    <string name="current_streak_format">🔥 %1$d-day streak</string>
+    <string name="unlocked_label">New achievements unlocked:</string>
+    <string name="ok">OK</string>
+
+    <!-- Achievements -->
+    <string name="achievements_title">Achievements</string>
+    <string name="no_achievements">No achievements yet — log a session to start unlocking them!</string>
+
+    <!-- Leaderboard -->
+    <string name="leaderboard_title">Leaderboard</string>
+    <string name="leaderboard_subtitle">Top readers ranked by XP</string>
+    <string name="leaderboard_button">Leaderboard</string>
+    <string name="loading">Loading…</string>
+    <string name="no_leaderboard_data">No readers yet — be the first!</string>
+</resources>
