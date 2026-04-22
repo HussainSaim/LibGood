@@ -70,7 +70,10 @@ This single end-to-end loop is the core feature of the application.
 
 ## Getting started
 
-See [`SETUP.md`](SETUP.md) for the full one-time Firebase setup (~25 min) and [`USER_GUIDE.md`](USER_GUIDE.md) for how to run the app and walk through the features.
+- **Username:** marker
+- **Password:** Marker123
+
+The pre-built APK is included in this submission at `app-debug.apk`. Install it on an Android emulator or phone. Alternatively create your own account using the register function.
 
 ## Project structure
 
