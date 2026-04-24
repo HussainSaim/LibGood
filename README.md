@@ -70,7 +70,7 @@ This single end-to-end loop is the core feature of the application.
 
 ## Getting started
 
-- **Username:** marker
+- **Email:** marker@libgood.app
 - **Password:** Marker123
 
 The pre-built APK is included in this submission at `app-debug.apk`. Install it on an Android emulator or phone. Alternatively create your own account using the register function.
