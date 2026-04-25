@@ -65,7 +65,7 @@ class DashboardActivity : AppCompatActivity() {
             welcomeText.text = getString(R.string.welcome_format, user.username.ifBlank { "Reader" })
             levelText.text = getString(R.string.level_format, user.level)
             xpText.text = getString(R.string.xp_format, user.xpInCurrentLevel, 100, user.xp)
-            streakText.text = getString(R.string.streak_format, user.streak)
+            streakText.text = getString(R.string.streak_format, user.currentStreak)
             xpBar.progress = user.xpInCurrentLevel
         }
     }
