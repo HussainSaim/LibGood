@@ -3,7 +3,7 @@
 
 <!-- The colours used for each part of the project-->
 
-    <style name="Theme.LibGood" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.LibGood" parent="Theme.MaterialComponents.Light.NoActionBar">
         <item name="colorPrimary">@color/primary</item>
         <item name="colorPrimaryDark">@color/primaryDark</item>
         <item name="colorAccent">@color/accent</item>
